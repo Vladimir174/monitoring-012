@@ -30,6 +30,11 @@ https://github.com/Vladimir174/monitoring-012/blob/main/test.sh
 zdata.txt
 zsender.log
 
+Файл с конфигов lld для zabbix lld.conf
+https://github.com/Vladimir174/monitoring-012/blob/main/lld.conf
+
+
+
 
 
 
