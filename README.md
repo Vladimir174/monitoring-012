@@ -38,6 +38,7 @@ https://github.com/Vladimir174/monitoring-012/blob/main/lld.conf
 ![image](https://github.com/Vladimir174/monitoring-012/assets/40054398/ea5da253-4056-4371-88f6-664a54ee15b3)
 
 **Discovery Rules**
+
 ![image](https://github.com/Vladimir174/monitoring-012/assets/40054398/df5b0b34-c431-4e5e-a1a4-5dc61c0d3503)
 
 
@@ -47,11 +48,41 @@ https://github.com/Vladimir174/monitoring-012/blob/main/lld.conf
 
 
 **Trigger prototypes**
+
 ![image](https://github.com/Vladimir174/monitoring-012/assets/40054398/f30c4cb8-1397-4f60-bf7c-7e5c2f734046)
 
 
 **Graph prototypes**
+
 ![image](https://github.com/Vladimir174/monitoring-012/assets/40054398/e26acd1f-56c6-42c2-9046-54df49efc069)
+
+
+**HOST**
+
+![image](https://github.com/Vladimir174/monitoring-012/assets/40054398/69bdb775-9384-41f5-b63e-0ca35a01c157)
+
+**Метрики**
+
+![image](https://github.com/Vladimir174/monitoring-012/assets/40054398/eece897d-fccf-4bf7-9ae6-7bcd9e90273c)
+![image](https://github.com/Vladimir174/monitoring-012/assets/40054398/944b874c-3856-4473-963f-4e2584074ebe)
+
+**Оповещение в ТГ**
+
+![image](https://github.com/Vladimir174/monitoring-012/assets/40054398/fde8a50a-337a-4953-a228-4a29fb989fd1)
+
+**И ссылка на канал**  https://t.me/RockMusicDay
+
+![image](https://github.com/Vladimir174/monitoring-012/assets/40054398/a41b9706-321b-41d2-b7d9-f0324dda4f2f)
+
+
+
+
+
+
+
+
+
+
 
 
 
