@@ -33,6 +33,8 @@ zsender.log
 Файл с конфигом lld для zabbix lld.conf
 https://github.com/Vladimir174/monitoring-012/blob/main/lld.conf
 
+Правило обнаружения:
+![image](https://github.com/Vladimir174/monitoring-012/assets/40054398/ea5da253-4056-4371-88f6-664a54ee15b3)
 
 
 
