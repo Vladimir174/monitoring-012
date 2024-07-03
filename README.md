@@ -34,14 +34,19 @@ zsender.log
 https://github.com/Vladimir174/monitoring-012/blob/main/lld.conf
 
 **Правило обнаружения:**
+
 ![image](https://github.com/Vladimir174/monitoring-012/assets/40054398/ea5da253-4056-4371-88f6-664a54ee15b3)
 **Discovery Rules**
+
 ![image](https://github.com/Vladimir174/monitoring-012/assets/40054398/df5b0b34-c431-4e5e-a1a4-5dc61c0d3503)
 **Item prototypes**
+
 ![image](https://github.com/Vladimir174/monitoring-012/assets/40054398/a6d0328d-5f32-4aed-af57-b217bf451728)
 **Trigger prototypes**
+
 ![image](https://github.com/Vladimir174/monitoring-012/assets/40054398/f30c4cb8-1397-4f60-bf7c-7e5c2f734046)
 **Graph prototypes**
+
 ![image](https://github.com/Vladimir174/monitoring-012/assets/40054398/e26acd1f-56c6-42c2-9046-54df49efc069)
 
 
