@@ -36,6 +36,7 @@ https://github.com/Vladimir174/monitoring-012/blob/main/lld.conf
 **Правило обнаружения:**
 
 ![image](https://github.com/Vladimir174/monitoring-012/assets/40054398/ea5da253-4056-4371-88f6-664a54ee15b3)
+
 **Discovery Rules**
 
 ![image](https://github.com/Vladimir174/monitoring-012/assets/40054398/df5b0b34-c431-4e5e-a1a4-5dc61c0d3503)
