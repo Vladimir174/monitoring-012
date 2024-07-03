@@ -2,16 +2,16 @@
 Домашнее задание
 №Настройка zabbix, создание LLD, оповещение на основе триггеров
 
-# Цель:
+Цель:
 Установить и настроить zabbix, настроить автоматическую отправку аллертов в телеграмм канал.
 
 
 Описание/Пошаговая инструкция выполнения домашнего задания:
 Необходимо сформировать скрипт генерирующий метрики формата:
 
-# otus_important_metrics[metric1]
-# otus_important_metrics[metric2]
-# otus_important_metrics[metric3]
+otus_important_metrics[metric1]
+otus_important_metrics[metric2]
+otus_important_metrics[metric3]
 
 С рандомным значение от 0 до 100
 
