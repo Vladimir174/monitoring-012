@@ -1,0 +1,1704 @@
+zabbix_sender [4613]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4613]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4613]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4613]: DEBUG: answer [{"response":"success","info":"processed: 0; failed: 3; total: 3; seconds spent: 0.000023"}]
+Response from "192.168.112.125:10051": "processed: 0; failed: 3; total: 3; seconds spent: 0.000023"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2123]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2123]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2123]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2123]: DEBUG: answer [{"response":"success","info":"processed: 0; failed: 3; total: 3; seconds spent: 0.000100"}]
+Response from "192.168.112.125:10051": "processed: 0; failed: 3; total: 3; seconds spent: 0.000100"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2156]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2156]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2156]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2156]: DEBUG: answer [{"response":"success","info":"processed: 0; failed: 3; total: 3; seconds spent: 0.000060"}]
+Response from "192.168.112.125:10051": "processed: 0; failed: 3; total: 3; seconds spent: 0.000060"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2234]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2234]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2234]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2234]: DEBUG: answer [{"response":"success","info":"processed: 0; failed: 3; total: 3; seconds spent: 0.000029"}]
+Response from "192.168.112.125:10051": "processed: 0; failed: 3; total: 3; seconds spent: 0.000029"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2308]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2308]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2308]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2308]: DEBUG: answer [{"response":"success","info":"processed: 0; failed: 3; total: 3; seconds spent: 0.000094"}]
+Response from "192.168.112.125:10051": "processed: 0; failed: 3; total: 3; seconds spent: 0.000094"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2318]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2318]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2318]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2318]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000555"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000555"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2329]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2329]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2329]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2329]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000156"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000156"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2336]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2336]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2336]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2336]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000050"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000050"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2344]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2344]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2344]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2344]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000178"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000178"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2350]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2350]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2350]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2350]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000184"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000184"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2356]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2356]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2356]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2356]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000181"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000181"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2362]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2362]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2362]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2362]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.001277"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.001277"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2368]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2368]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2368]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2368]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.001075"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.001075"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2374]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2374]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2374]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2374]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000044"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000044"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2380]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2380]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2380]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2380]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000445"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000445"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2386]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2386]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2386]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2386]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000376"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000376"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2392]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2392]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2392]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2392]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000569"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000569"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2405]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2405]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2405]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2405]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000129"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000129"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2411]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2411]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2411]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2411]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000663"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000663"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2422]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2422]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2422]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2422]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000568"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000568"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2428]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2428]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2428]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2428]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000374"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000374"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2439]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2439]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2439]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2439]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000056"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000056"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2445]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2445]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2445]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2445]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000041"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000041"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2455]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2455]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2455]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2455]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000040"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000040"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2471]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2471]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2471]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2471]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000033"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000033"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2481]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2481]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2481]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2481]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000202"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000202"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2487]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2487]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2487]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2487]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000292"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000292"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2497]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2497]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2497]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2497]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000049"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000049"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2504]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2504]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2504]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2504]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000060"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000060"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2519]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2519]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2519]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2519]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000082"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000082"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2525]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2525]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2525]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2525]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000666"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000666"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2535]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2535]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2535]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2535]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000046"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000046"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2542]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2542]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2542]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2542]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000079"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000079"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2599]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2599]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2599]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2599]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000145"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000145"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2643]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2643]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2643]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2643]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000048"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000048"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2653]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2653]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2653]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2653]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000050"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000050"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2661]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2661]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2661]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2661]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000073"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000073"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2675]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2675]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2675]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2675]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000029"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000029"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2685]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2685]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2685]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2685]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000528"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000528"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2694]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2694]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2694]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2694]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000109"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000109"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2707]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2707]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2707]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2707]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000145"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000145"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2713]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2713]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2713]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2713]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000137"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000137"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2723]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2723]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2723]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2723]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000719"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000719"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2729]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2729]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2729]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2729]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000038"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000038"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2735]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2735]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2735]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2735]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000370"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000370"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2741]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2741]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2741]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2741]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000026"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000026"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2748]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2748]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2748]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2748]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000075"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000075"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2754]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2754]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2754]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2754]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000516"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000516"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2760]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2760]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2760]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2760]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000056"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000056"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2766]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2766]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2766]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2766]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000132"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000132"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2772]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2772]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2772]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2772]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000063"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000063"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2778]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2778]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2778]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2778]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000057"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000057"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2784]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2784]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2784]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2784]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000129"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000129"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2790]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2790]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2790]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2790]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000412"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000412"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2796]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2796]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2796]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2796]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000030"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000030"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2802]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2802]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2802]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2802]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000053"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000053"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2808]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2808]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2808]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2808]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000041"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000041"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2814]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2814]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2814]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2814]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000040"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000040"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2821]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2821]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2821]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2821]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000044"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000044"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2827]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2827]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2827]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2827]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000045"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000045"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2837]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2837]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2837]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2837]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000714"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000714"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2843]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2843]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2843]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2843]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000031"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000031"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2855]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2855]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2855]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2855]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000134"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000134"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2861]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2861]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2861]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2861]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000037"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000037"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2871]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2871]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2871]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2871]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000038"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000038"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2878]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2878]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2878]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2878]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000033"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000033"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2890]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2890]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2890]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2890]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000402"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000402"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2896]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2896]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2896]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2896]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000029"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000029"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2923]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2923]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2923]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2923]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000393"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000393"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2930]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2930]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2930]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2930]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000601"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000601"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2940]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2940]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2940]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2940]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000242"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000242"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2946]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2946]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2946]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2946]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000034"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000034"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2959]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2959]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2959]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2959]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000054"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000054"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2968]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2968]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2968]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2968]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000043"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000043"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2974]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2974]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2974]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2974]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000294"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000294"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2981]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2981]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2981]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2981]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000159"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000159"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [2992]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [2992]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [2992]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [2992]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000545"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000545"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3015]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3015]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3015]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3015]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000713"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000713"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3025]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3025]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3025]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3025]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000145"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000145"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3039]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3039]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3039]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3039]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000147"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000147"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3052]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3052]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3052]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3052]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000027"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000027"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3063]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3063]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3063]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3063]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000094"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000094"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3069]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3069]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3069]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3069]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000968"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000968"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3075]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3075]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3075]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3075]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000117"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000117"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3081]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3081]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3081]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3081]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000184"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000184"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3087]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3087]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3087]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3087]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000046"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000046"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3093]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3093]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3093]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3093]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000044"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000044"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3099]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3099]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3099]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3099]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000041"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000041"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3105]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3105]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3105]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3105]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000091"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000091"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3115]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3115]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3115]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3115]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000636"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000636"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3127]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3127]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3127]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3127]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000042"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000042"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3137]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3137]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3137]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3137]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000146"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000146"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3149]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3149]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3149]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3149]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000112"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000112"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3160]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3160]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3160]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3160]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000133"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000133"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3166]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3166]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3166]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3166]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000042"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000042"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3172]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3172]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3172]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3172]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000578"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000578"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3178]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3178]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3178]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3178]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000067"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000067"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3184]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3184]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3184]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3184]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000585"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000585"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3190]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3190]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3190]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3190]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000974"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000974"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3196]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3196]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3196]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3196]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000041"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000041"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3205]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3205]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3205]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3205]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000709"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000709"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3211]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3211]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3211]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3211]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000530"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000530"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3217]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3217]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3217]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3217]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000141"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000141"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3223]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3223]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3223]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3223]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000893"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000893"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3229]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3229]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3229]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3229]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000068"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000068"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3235]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3235]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3235]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3235]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000054"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000054"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3241]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3241]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3241]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3241]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000160"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000160"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3247]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3247]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3247]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3247]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000098"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000098"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3253]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3253]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3253]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3253]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000040"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000040"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3265]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3265]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3265]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3265]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000050"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000050"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3271]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3271]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3271]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3271]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.004969"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.004969"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3277]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3277]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3277]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3277]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000572"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000572"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3283]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3283]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3283]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3283]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000035"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000035"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3289]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3289]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3289]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3289]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000725"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000725"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3295]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3295]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3295]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3295]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000041"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000041"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3301]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3301]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3301]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3301]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000047"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000047"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3307]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3307]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3307]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3307]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000037"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000037"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3314]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3314]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3314]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3314]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000043"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000043"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3320]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3320]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3320]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3320]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000032"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000032"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3326]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3326]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3326]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3326]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000047"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000047"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3332]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3332]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3332]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3332]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000044"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000044"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3338]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3338]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3338]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3338]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000424"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000424"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3344]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3344]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3344]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3344]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000604"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000604"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3350]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3350]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3350]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3350]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000139"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000139"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3356]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3356]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3356]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3356]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000551"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000551"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3362]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3362]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3362]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3362]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000043"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000043"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3376]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3376]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3376]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3376]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000039"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000039"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3386]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3386]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3386]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3386]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000037"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000037"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3399]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3399]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3399]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3399]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000146"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000146"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3411]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3411]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3411]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3411]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000744"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000744"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3422]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3422]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3422]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3422]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000036"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000036"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3431]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3431]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3431]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3431]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000050"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000050"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3437]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3437]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3437]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3437]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000845"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000845"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3443]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3443]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3443]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3443]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000036"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000036"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3449]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3449]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3449]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3449]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000542"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000542"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3455]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3455]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3455]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3455]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000064"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000064"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3461]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3461]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3461]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3461]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.001008"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.001008"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3467]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3467]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3467]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3467]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000668"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000668"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3473]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3473]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3473]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3473]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000046"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000046"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3479]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3479]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3479]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3479]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000070"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000070"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3485]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3485]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3485]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3485]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000152"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000152"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3491]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3491]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3491]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3491]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000597"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000597"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3497]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3497]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3497]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3497]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000029"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000029"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3503]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3503]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3503]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3503]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000185"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000185"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3509]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3509]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3509]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3509]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000051"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000051"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3515]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3515]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3515]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3515]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000053"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000053"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3521]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3521]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3521]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3521]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000042"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000042"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3534]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3534]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3534]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3534]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000400"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000400"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3548]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3548]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3548]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3548]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000032"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000032"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3554]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3554]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3554]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3554]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000121"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000121"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3560]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3560]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3560]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3560]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000065"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000065"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3566]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3566]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3566]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3566]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000111"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000111"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3572]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3572]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3572]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3572]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000155"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000155"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3578]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3578]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3578]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3578]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000226"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000226"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3584]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3584]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3584]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3584]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000076"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000076"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3590]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3590]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3590]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3590]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000039"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000039"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3596]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3596]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3596]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3596]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000042"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000042"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3602]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3602]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3602]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3602]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000190"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000190"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3608]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3608]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3608]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3608]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000071"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000071"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3614]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3614]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3614]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3614]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000455"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000455"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3620]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3620]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3620]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3620]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000182"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000182"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3626]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3626]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3626]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3626]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000105"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000105"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3632]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3632]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3632]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3632]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000036"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000036"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3638]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3638]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3638]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3638]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000041"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000041"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3644]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3644]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3644]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3644]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000373"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000373"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3651]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3651]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3651]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3651]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000050"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000050"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3657]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3657]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3657]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3657]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000185"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000185"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3663]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3663]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3663]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3663]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000029"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000029"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3672]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3672]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3672]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3672]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000053"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000053"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3678]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3678]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3678]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3678]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000043"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000043"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3684]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3684]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3684]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3684]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000064"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000064"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3690]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3690]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3690]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3690]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000046"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000046"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3696]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3696]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3696]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3696]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000049"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000049"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3702]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3702]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3702]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3702]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000426"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000426"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3719]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3719]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3719]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3719]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000088"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000088"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3730]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3730]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3730]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3730]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000047"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000047"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3736]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3736]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3736]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3736]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000043"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000043"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3742]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3742]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3742]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3742]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000052"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000052"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3748]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3748]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3748]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3748]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000060"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000060"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3760]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3760]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3760]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3760]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000146"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000146"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3771]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3771]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3771]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3771]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000129"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000129"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3784]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3784]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3784]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3784]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000083"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000083"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3794]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3794]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3794]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3794]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000627"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000627"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3800]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3800]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3800]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3800]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000063"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000063"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3806]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3806]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3806]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3806]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000249"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000249"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3812]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3812]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3812]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3812]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000091"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000091"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3818]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3818]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3818]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3818]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000058"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000058"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3824]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3824]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3824]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3824]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000053"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000053"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3830]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3830]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3830]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3830]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000226"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000226"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3836]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3836]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3836]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3836]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000046"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000046"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3842]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3842]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3842]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3842]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000191"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000191"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3849]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3849]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3849]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3849]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000034"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000034"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3855]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3855]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3855]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3855]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000739"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000739"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3861]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3861]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3861]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3861]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000670"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000670"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3867]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3867]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3867]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3867]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000084"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000084"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3874]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3874]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3874]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3874]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000046"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000046"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3880]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3880]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3880]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3880]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000117"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000117"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3886]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3886]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3886]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3886]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000067"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000067"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3892]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3892]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3892]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3892]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000535"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000535"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3898]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3898]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3898]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3898]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000655"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000655"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3904]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3904]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3904]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3904]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000027"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000027"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3910]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3910]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3910]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3910]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000039"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000039"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3916]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3916]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3916]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3916]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000611"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000611"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3925]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3925]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3925]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3925]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000111"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000111"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3933]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3933]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3933]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3933]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000585"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000585"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3944]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3944]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3944]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3944]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000452"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000452"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3954]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3954]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3954]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3954]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000038"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000038"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3965]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3965]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3965]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3965]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000089"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000089"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3977]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3977]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3977]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3977]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000028"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000028"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [3988]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [3988]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [3988]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [3988]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000212"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000212"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4000]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4000]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4000]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4000]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000430"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000430"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4012]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4012]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4012]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4012]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000057"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000057"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4022]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4022]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4022]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4022]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000367"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000367"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4032]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4032]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4032]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4032]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000160"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000160"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4038]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4038]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4038]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4038]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000045"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000045"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4044]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4044]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4044]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4044]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000154"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000154"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4050]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4050]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4050]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4050]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000026"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000026"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4056]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4056]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4056]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4056]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000054"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000054"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4062]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4062]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4062]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4062]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000028"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000028"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4068]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4068]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4068]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4068]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000033"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000033"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4074]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4074]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4074]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4074]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000229"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000229"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4081]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4081]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4081]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4081]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000031"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000031"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4088]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4088]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4088]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4088]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000027"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000027"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4095]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4095]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4095]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4095]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000123"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000123"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4104]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4104]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4104]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4104]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000047"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000047"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4116]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4116]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4116]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4116]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000053"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000053"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4131]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4131]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4131]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4131]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000129"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000129"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4140]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4140]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4140]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4140]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000135"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000135"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4151]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4151]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4151]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4151]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000056"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000056"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4170]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4170]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4170]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4170]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000204"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000204"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4180]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4180]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4180]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4180]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000487"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000487"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4194]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4194]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4194]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4194]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000954"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000954"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4203]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4203]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4203]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4203]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000583"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000583"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4214]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4214]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4214]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4214]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000589"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000589"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4226]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4226]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4226]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4226]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000086"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000086"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4238]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4238]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4238]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4238]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000188"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000188"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4251]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4251]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4251]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4251]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000045"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000045"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4257]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4257]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4257]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4257]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000121"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000121"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4273]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4273]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4273]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4273]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000676"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000676"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4284]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4284]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4284]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4284]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000071"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000071"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4296]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4296]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4296]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4296]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000060"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000060"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4308]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4308]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4308]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4308]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000369"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000369"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4318]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4318]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4318]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4318]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000065"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000065"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4330]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4330]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4330]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4330]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000031"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000031"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4342]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4342]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4342]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4342]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000154"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000154"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4353]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4353]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4353]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4353]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000394"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000394"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4365]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4365]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4365]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4365]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000399"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000399"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4375]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4375]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4375]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4375]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000122"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000122"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4396]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4396]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4396]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4396]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.001829"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.001829"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4406]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4406]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4406]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4406]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000053"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000053"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4417]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4417]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4417]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4417]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.001080"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.001080"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4427]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4427]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4427]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4427]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000070"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000070"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4439]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4439]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4439]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4439]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000050"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000050"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4452]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4452]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4452]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4452]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000335"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000335"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4462]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4462]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4462]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4462]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000041"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000041"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4473]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4473]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4473]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4473]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000171"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000171"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4485]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4485]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4485]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4485]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.001122"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.001122"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4496]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4496]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4496]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4496]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000523"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000523"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4507]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4507]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4507]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4507]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000122"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000122"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4520]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4520]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4520]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4520]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000139"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000139"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4532]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4532]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4532]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4532]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.001166"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.001166"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4544]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4544]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4544]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4544]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000052"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000052"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4554]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4554]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4554]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4554]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000128"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000128"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4566]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4566]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4566]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4566]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000046"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000046"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4576]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4576]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4576]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4576]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000037"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000037"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4587]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4587]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4587]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4587]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000033"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000033"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4601]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4601]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4601]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4601]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000582"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000582"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4612]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4612]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4612]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4612]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000054"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000054"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4626]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4626]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4626]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4626]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000026"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000026"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4637]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4637]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4637]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4637]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000043"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000043"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4648]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4648]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4648]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4648]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000109"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000109"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4658]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4658]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4658]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4658]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000534"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000534"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4671]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4671]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4671]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4671]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000291"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000291"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4682]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4682]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4682]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4682]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000033"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000033"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4697]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4697]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4697]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4697]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000411"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000411"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4707]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4707]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4707]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4707]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000138"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000138"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4717]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4717]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4717]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4717]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000211"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000211"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4728]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4728]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4728]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4728]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000051"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000051"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4742]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4742]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4742]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4742]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000118"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000118"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4754]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4754]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4754]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4754]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000309"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000309"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4765]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4765]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4765]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4765]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000060"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000060"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4775]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4775]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4775]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4775]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000106"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000106"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4790]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4790]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4790]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4790]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000601"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000601"
+sent: 3; skipped: 0; total: 3
+zabbix_sender [4850]: DEBUG: In zbx_connect_to_server() [192.168.112.125]:10051 [timeout:60, connection timeout:3]
+zabbix_sender [4850]: DEBUG: In zbx_is_ip4() ip:'192.168.112.125'
+zabbix_sender [4850]: DEBUG: End of zbx_is_ip4():SUCCEED
+zabbix_sender [4850]: DEBUG: answer [{"response":"success","info":"processed: 3; failed: 0; total: 3; seconds spent: 0.000086"}]
+Response from "192.168.112.125:10051": "processed: 3; failed: 0; total: 3; seconds spent: 0.000086"
+sent: 3; skipped: 0; total: 3

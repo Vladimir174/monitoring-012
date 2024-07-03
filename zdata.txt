@@ -1,0 +1,3 @@
+otus-vm-doc otus_important_metrics[metric1] 9
+otus-vm-doc otus_important_metrics[metric2] 86
+otus-vm-doc otus_important_metrics[metric3] 17
